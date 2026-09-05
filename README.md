@@ -1,8 +1,12 @@
-# Halakou
+<p align="center">
+  <img src="logo.png" width="128" alt="Halakou" />
+</p>
+
+<h1 align="center">Halakou</h1>
+
+<p align="center">Telegram Mini Apps · Cloudflare Workers · Telegram Stars</p>
 
 I ship Telegram Mini Apps and Cloudflare Workers: Stars payments, D1, and public pages on the free tier.
-
-GitHub: [halakou](https://github.com/halakou)
 
 ## Selected work
 
@@ -26,6 +30,6 @@ Sixty-second briefs on local models, Ollama, and self-hosted agents.
 
 **Live:** [halakou.github.io/rackside](https://halakou.github.io/rackside/)
 
-## Stack I use
+## Stack
 
 Cloudflare Workers · D1 · Telegram Mini Apps · Telegram Stars · Wrangler · GitHub Actions
